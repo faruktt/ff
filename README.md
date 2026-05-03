@@ -138,7 +138,16 @@ For issues or questions:
 Feel free to use and modify this template for your personal use!
 
 ---
-
+<section class="py-20 px-6">
+        <div class="max-w-4xl mx-auto bg-gradient-to-br from-rose-400 to-rose-600 rounded-[3rem] p-12 text-center text-white shadow-2xl relative overflow-hidden">
+            <div class="absolute top-0 left-0 opacity-10 text-9xl">❤️</div>
+            <h2 class="text-3xl md:text-5xl serif mb-6">To My Dearest...</h2>
+            <p class="text-xl italic opacity-90 leading-relaxed mb-8">
+                "In all the world, there is no heart for me like yours. In all the world, there is no love for you like mine."
+            </p>
+            <p class="font-bold tracking-widest">— Forever Yours</p>
+        </div>
+    </section>
 **Made with ❤️ and memories**
 
 Enjoy your new personal website! 🎉
